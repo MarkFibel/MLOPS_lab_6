@@ -1,0 +1,22 @@
+{
+  "Account_Balance": 1,
+  "Duration_of_Credit_monthly": 12,
+  "Payment_Status_of_Previous_Credit": 2,
+  "Purpose": 2,
+  "Credit_Amount": 5000,
+  "Value_Savings_Stocks": 1,
+  "Length_of_current_employment": 2,
+  "Instalment_per_cent": 4,
+  "Sex_Marital_Status": 2,
+  "Guarantors": 1,
+  "Duration_in_Current_address": 3,
+  "Most_valuable_available_asset": 2,
+  "Age_years": 25,
+  "Concurrent_Credits": 1,
+  "Type_of_apartment": 1,
+  "No_of_Credits_at_this_Bank": 1,
+  "Occupation": 1,
+  "No_of_dependents": 1,
+  "Telephone": 1,
+  "Foreign_Worker": 1
+}

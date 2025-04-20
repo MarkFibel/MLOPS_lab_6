@@ -1,1 +1,4 @@
-
+.gitignore
+mlruns/
+build_docker.sh
+.DS_Store
